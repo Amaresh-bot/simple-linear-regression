@@ -50,6 +50,8 @@ cgpa, package
 
 The model learns a linear relationship of the form:
 
+![Ploting data](images/scatter_img.png)
+
 ```
 package = m * cgpa + b
 ```
