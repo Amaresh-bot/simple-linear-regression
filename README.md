@@ -58,5 +58,5 @@ package = m * cgpa + b
 
 Where `m` is the learned coefficient and `b` is the intercept.
 
-![Regression Line](regression_plot.png)
+![Regression Line](images/linear_regression.png)
 
